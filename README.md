@@ -3,7 +3,7 @@
 
 ## I'm a Lifetime Learner, Developer, and Cloud Engineer!!
 
-- 🔭 I just launched my first AWS Project: [Become A Cloud SuperHero!]!
+- 🔭 I just launched my first AWS Project: Become A Cloud SuperHero!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
