@@ -39,9 +39,9 @@
 
 ---
 
-[mygithub]: https://github.com/atbudak/atbudak
+[mygithub]: https://github.com/atbudak/
 [instagram]: https://instagram.com/ahmetbudak__
-[linkedin]: https://github.com/atbudak/AWS-Projects
+[linkedin]: https://www.linkedin.com/in/ahmet-budak/
 
 [vscode]: https://code.visualstudio.com/
 [html]: https://whatwg.org/
