@@ -39,7 +39,7 @@
 
 ---
 
-[mygithub]: https://github.com/atbudak/
+[mygithub]: https://gitlab.com/abudak
 [instagram]: https://instagram.com/ahmetbudak__
 [linkedin]: https://www.linkedin.com/in/ahmet-budak/
 
